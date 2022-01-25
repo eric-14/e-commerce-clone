@@ -1,0 +1,21 @@
+.checkout{
+    display:flex;
+    padding:20px;
+    height: max-content;
+    
+}
+.checkout_left{
+    flex:0.8;
+}
+.checkout_right{
+    flex:0.2;
+    margin-left: 20px;
+}
+
+.checkout_image{
+   
+    object-fit: contain;
+    
+    margin: 10px 5px;
+    width: 100%;
+}
